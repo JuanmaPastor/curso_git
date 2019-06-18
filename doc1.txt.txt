@@ -1,4 +1,10 @@
 Primera prueba de documento
 ahora estoy escribiendo en el editor de Github
 Ahora nuevo cambio en el desktop
+
 Ahora cambio en la web para crear conflicto
+
+Ahora hago cambio en la rama2 del desktop
+
+He arreglado el conflicto
+
